@@ -1,1 +1,3 @@
-Hi I typed this from Github Hureyyyyyyy!
+let a:number =10
+console.log(a)
+
