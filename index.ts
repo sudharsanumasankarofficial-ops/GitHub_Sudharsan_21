@@ -1,3 +1,4 @@
-let a:number =10
+let a:number =22
 console.log(a)
+
 
