@@ -1,4 +1,2 @@
-let a:number =11
-console.log(a)
-
+let a:number =22
 
